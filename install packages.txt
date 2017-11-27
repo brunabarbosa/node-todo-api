@@ -3,3 +3,4 @@ npm i mongodb --save
 npm i mongoose --save
 npm i express body-parser --save
 npm i expect mocha nodemon supertest --save-dev
+npm i --save lodash
